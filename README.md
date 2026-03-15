@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Richard 👋
 
-<!--
-**Richard-sumulu/Richard-sumulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent robotics developer focused on:
 
-Here are some ideas to get you started:
+- Robot control systems
+- Autonomous navigation
+- Perception and mapping
+- LLM-powered robotic agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on robotics platforms including:
+
+- Quadruped robots (robot dogs)
+- Autonomous ground vehicles
+- ROS2 and Nav2 navigation systems
+- Multi-agent robotic control with OpenClaw
+
+## Projects
+
+- **RoboClaw Brain**  
+  Multi-agent robotic control system for quadruped robots and autonomous vehicles.
+
+## Tech Stack
+
+- ROS2
+- Nav2
+- Python
+- Robotics perception
+- LLM agents
+
+---
